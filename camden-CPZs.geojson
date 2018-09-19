@@ -3717,7 +3717,7 @@
       "type": "Feature",
       "properties": {
         "zone": "CA-R(a)/K/Q",
-        "sub": ""
+        "sub": "a"
       },
       "geometry": {
         "type": "LineString",
