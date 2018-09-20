@@ -1,0 +1,24 @@
+{
+  "name": "geodata",
+  "version": "1.0.0",
+  "description": "geographical data sources",
+  "main": "index.js",
+  "dependencies": {
+    "topojson": "^3.0.2",
+    "topojson-server": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aftertheflood/geodata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aftertheflood/geodata/issues"
+  },
+  "homepage": "https://github.com/aftertheflood/geodata#readme"
+}
