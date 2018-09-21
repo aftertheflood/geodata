@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "topojson:camden-cpz": "geo2topo camden-CPZs.geojson > camden-CPZ.topojson"
   },
   "repository": {
     "type": "git",
