@@ -7327,7 +7327,7 @@
     {
       "type": "Feature",
       "properties": {
-        "zone":CA-L(Outer)
+        "zone":"CA-L(Outer)"
       },
       "geometry": {
         "type": "MultiPolygon",
